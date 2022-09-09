@@ -1,0 +1,124 @@
+/* Name: */
+
+.name {
+
+    position: absolute;
+    width: 114px;
+    height: 52px;
+    left: 600px;
+    top: 170px;
+
+    font-family: 'Halant';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 57px;
+
+    color: #000000;
+
+    }
+
+/* Surname: */
+
+.surname {
+
+
+    position: absolute;
+    width: 171px;
+    height: 51px;
+    left: 600px;
+    top: 250px;
+
+    font-family: 'Halant';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 57px;
+
+    color: #000000;
+
+    }
+
+/* Age: */
+
+.age {
+
+    position: absolute;
+    width: 82px;
+    height: 52px;
+    left: 600px;
+    top: 330px;
+
+    font-family: 'Halant';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 57px;
+
+    color: #000000;
+
+    }
+
+/* Coding experience: */
+
+.codingexperience {
+
+    position: absolute;
+    width: 349px;
+    height: 51px;
+    left: 600px;
+    top: 410px;
+
+    font-family: 'Halant';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 57px;
+
+    color: #000000;
+
+    }
+
+/* Favorite language: */
+
+.favoritelanguage {
+
+    position: absolute;
+    width: 349px;
+    height: 52px;
+    left: 600px;
+    top: 490px;
+
+    font-family: 'Halant';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 57px;
+
+    color: #000000;
+
+    }
+
+/* Tell us your story: */
+
+.yourstory {
+
+    position: absolute;
+    width: 348px;
+    height: 52px;
+    left: 600px;
+    top: 570px;
+
+    font-family: 'Halant';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 57px;
+
+    color: #000000;
+
+    }
+
+
+
+

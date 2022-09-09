@@ -1,0 +1,40 @@
+/*Simple Formulary*/
+
+.title {
+
+    position: absolute;
+    width: 596px;
+    height: 92px;
+    left: 674px;
+    top: 0px;
+    
+    font-family: 'Halant';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 78px;
+
+  }
+
+/*Line (Separator)*/
+
+.line {
+    position: absolute;
+    width: 1363px;
+    height: 0px;
+    left: 278px;
+    top: 165px;
+    
+    border: 1px solid #000000;
+    
+  }
+
+  .linedown {
+    position: absolute;
+    width: 1363px;
+    height: 0px;  
+    left: 278px;
+    top: 770px;
+
+    border: 1px solid #000000
+  }
