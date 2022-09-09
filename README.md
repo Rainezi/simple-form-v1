@@ -1,2 +1,4 @@
-# simple-form-v1
-Simple formulary in HTML.
+# Simple Form (v1)
+
+My first HTML project ever.
+
