@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="/styles/layout.css">
+        <link rel="stylesheet" href="/styles/questions.css">
+        <link rel="stylesheet" href="/styles/inputs.css">
+        <title>Simple Formulary</title>
+    </head>
+
+    <body>
+        <p class="title">Simple Formulary</p>
+    <hr class="line">
+
+    <div>
+        <p class="name">Name:</p>
+            <input class="inputName" type="text">
+
+        <p class="surname">Surname:</p>
+            <input class="inputSurname" type="text">
+
+        <p class="age">Age:</p>
+            <input class="inputAge" type="number">
+
+        <p class="codingexperience">Coding Experience:</p>  
+            
+        <form class="inputExperience">
+            <input type="radio" id="almostzero" name="coding_experience" value="Almost Zero">
+            <label for="almostzero">Almost Zero</label>
+            <input type="radio" id="acceptable" name="coding_experience" value="Acceptable">
+            <label for="acceptable">Acceptable</label>
+            <input type="radio" id="verygood" name="coding_experience" value="Very Good">
+            <label for="verygood">Very Good</label>
+          </form>
+
+        <p class="favoritelanguage">Favorite Language:</p>
+
+        <form class="inputLanguage">
+            <input type="checkbox" id="html" name="favorite_language" value="HTML">
+            <label for="almostzero">HTML</label>
+            <input type="checkbox" id="css" name="favorite_language" value="CSS">
+            <label for="acceptable">CSS</label>
+            <input type="checkbox" id="js" name="favorite_language" value="JavaScript">
+            <label for="verygood">JavaScript</label>
+        </form>
+
+        <p class="yourstory">Tell us your story:</p>
+
+        <form class="inputAboutMe">
+            <label for="aboutme"></label>
+            <textarea id="aboutme" name="aboutme" rows="4" cols="50">
+Tell us your story...
+            </textarea> 
+        </form>  
+
+        <form class="inputSubmit">
+            <input type="submit" value="Submit" size="40" style="height: 50px; width: 100px">
+        </form>
+
+    </div>
+
+    <hr class="linedown">
+    </body>
+    
+</html>
