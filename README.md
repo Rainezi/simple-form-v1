@@ -1,4 +1,7 @@
-# Simple Form (v1)
+# Simple Form 📝 (v1)
 
-My first project ever. <br>
+This is my first project ever. <br>
+I have plans to recreate this formulary as I progress and develop new skills. <br>
+
+Check out the formulary: <br>
 https://rainezi.github.io/simple-form-v1/
